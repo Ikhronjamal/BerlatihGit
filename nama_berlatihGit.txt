@@ -1,4 +1,5 @@
 Nama : Ikhron Jamal Fuadi
 Stack : Mobile
-Hobi :Footsal
 
+Hobi :Footsal
+Deskripsi: isi kenapa anda suka programing
